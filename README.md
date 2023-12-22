@@ -1,4 +1,4 @@
-<h1 align="center">PHP Developer</h1>
+<h1 align="center">Frontend Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShokhAke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
 [![Telegram Badge](https://img.shields.io/badge/@dev_ake-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/dev_ake) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Dev_Ake)](https://www.youtube.com/@Dev_Ake)
+[![Youtube Badge](https://img.shields.io/badge/@Dev_ake-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Dev_Ake)](https://www.youtube.com/@Dev_Ake)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
