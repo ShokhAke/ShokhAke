@@ -14,7 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on JavaScript
-- :hourglass_flowing_sand:  I’m looking to collaborate on ...
+- :hourglass_flowing_sand:  I’m looking to collaborate on
 
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
