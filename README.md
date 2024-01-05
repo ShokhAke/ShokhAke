@@ -6,7 +6,7 @@ I am a frontend software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShokhAke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ShokhAke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shokh-ake-1222252a7/)](https://www.linkedin.com/in/shokh-ake-1222252a7/)
 [![Telegram Badge](https://img.shields.io/badge/@dev_ake-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/dev_ake) 
 [![Youtube Badge](https://img.shields.io/badge/@Dev_ake-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Dev_Ake)](https://www.youtube.com/@Dev_Ake)
 
